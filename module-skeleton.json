@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-digital-asset-management-flutter",
+  "capabilityKey": "liberusoftware/module-cms-digital-asset-management",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_digital_asset_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/digital-asset-management.md",
+  "presentationPlan": "projects/cms/flutter/digital-asset-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
